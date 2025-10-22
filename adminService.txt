@@ -1,1 +1,2 @@
-addmin name
+addmin name:ABBB
+roll:1245
