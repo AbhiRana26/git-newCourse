@@ -7,3 +7,4 @@ change on main
 new change on main
 change on main
 closing the connection
+samsung
