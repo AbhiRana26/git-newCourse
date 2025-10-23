@@ -2,3 +2,4 @@ addmin name:ABBB
 roll:1245
 manage database
 closing connection
+on main
